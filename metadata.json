@@ -1,0 +1,6 @@
+{
+  "name": "Charu HCM — Stylish Living",
+  "description": "Comprehensive Human Capital Management (HCM) platform for Charu Ceramic Industries Ltd featuring real-time attendance, leave workflows, overtime, interactive 64-district workforce map, and analytics dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
